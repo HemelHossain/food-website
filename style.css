@@ -1,0 +1,100 @@
+body{
+    font-family: 'poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 60px;
+    color: green;
+    margin: 0px 0px 0px 0px;
+
+}
+h3{
+    font-size: 30px;
+    margin-bottom: 0px;
+
+}
+h4{
+    font-size: 25px;
+    margin: 0px 0px 10px 0px;
+
+}
+.cheese-cake{
+    display: flex;
+    margin-bottom: 150px;
+
+}
+.brownie{
+    color: #F93F17;
+
+}
+.food{
+    width: 150%;
+    padding-left: 10%;
+    margin-top: 5%;
+
+}
+.food img{
+    width: 70%;
+    margin-top: 10px;
+
+}
+.link{
+    text-decoration: none;
+    padding: 2% 5%;
+    margin-top: 10%;
+    color: white;
+     background-image: linear-gradient(orange , #F93F17);
+     border-radius: 5px;
+
+}
+.chocolate-mouse{
+    display: flex;
+    background-image: url(7.png);
+    height: 60%;
+}
+.cake{
+    margin:20% 0px 50px px;
+}
+.mojito {
+    text-align: center;
+}
+.steak{
+    display: flex;
+
+}
+.apple img{
+    width: 90%;
+    height: 60%;
+    border-radius: 7px;
+    margin-top: 2%;
+}
+.apple{
+    box-shadow: 10px 10px 40px  gray;
+    border-radius: 8px;
+    text-align: center;
+    width: 1000px;
+    height: 350px;
+    border-bottom: 0%;
+    margin:0px 25px 150px  40px;
+}
+.milkshake{
+    display: flex;
+    box-shadow: 10px 10px 40px gray;
+    margin: 0% 20% 12% 20%;
+}
+.cold-coffe{
+    margin:0% 10% 0% 10%;
+    text-align: center;
+
+}
+.chocolate-milkshake{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.burger{
+    color: orange;
+}
+.pizza{
+    color: gray;
+}
